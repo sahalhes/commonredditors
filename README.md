@@ -2,14 +2,17 @@
 
 Program to find common reddit users of two subreddit using publically available posts and comments.
 
+Use it here - https://commonredditors-production.up.railway.app/
+
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
-## Installation
+## Usage
+Either use it here -> https://commonredditors-production.up.railway.app/
+
+or use project locally 
 1. Clone the repository:
     ```
     git clone https://github.com/sahalhes/commonredditors.git
